@@ -11,7 +11,14 @@ Soy un apasionado del **desarrollo full stack**, actualmente aprendiendo **JavaS
 - **Frontend:** React, JavaScript  
 - **Backend:**  Python  
 - **DevOps & Cloud:**  Kubernetes,Git  
-- **Automatización:** Scripts en Python  
+- **Automatización:** Scripts en Python
+
+  # ⚡ Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update.end-->
+
 
 ## 📢 ¿Buscas colaborar conmigo?  
 Si estás interesado en **desarrollo, automatización o estrategias de contenido financiero**, ¡hablemos! 🚀  
