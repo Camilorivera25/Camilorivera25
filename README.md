@@ -15,8 +15,8 @@ Soy un apasionado del **desarrollo full stack**, actualmente aprendiendo **JavaS
 
   # ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Camilorivera25/mi-tercerrepodegithub/pull/2) in [Camilorivera25/mi-tercerrepodegithub](https://github.com/Camilorivera25/mi-tercerrepodegithub)
-2. 💪 Opened PR [#2](https://github.com/Camilorivera25/mi-tercerrepodegithub/pull/2) in [Camilorivera25/mi-tercerrepodegithub](https://github.com/Camilorivera25/mi-tercerrepodegithub)
+1. 🚀 Published release [v0.1.0](https://github.com/Camilorivera25/cuartorepo/releases/tag/v0.1.0) in [Camilorivera25/cuartorepo](https://github.com/Camilorivera25/cuartorepo)
+2. 🎉 Merged PR [#2](https://github.com/Camilorivera25/mi-tercerrepodegithub/pull/2) in [Camilorivera25/mi-tercerrepodegithub](https://github.com/Camilorivera25/mi-tercerrepodegithub)
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:last_update.end-->
